@@ -403,6 +403,9 @@
             android:label="Isha: 2 Rakaat Nafil"
             android:parentActivityName=".mactivity.MScrollableTabsActivity" >
         </activity>
+        <activity android:name=".PrayerTimeYearActivity"
+    android:label="Prayer Timing Yearly"
+    android:parentActivityName=".prayertime.PrayerTimeActivity" />
     </application>
 
 </manifest>
